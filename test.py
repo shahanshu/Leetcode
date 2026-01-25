@@ -1,14 +1,6 @@
-string='anshukumarshah'
-
-from collections import defaultdict
-
-count=defaultdict(int)
-
-for i in string:
-    count[i]+=1
-for kripa,vale in string:
-    if count[vale]==1:
-     print(kripa)
-    else:
-        print('-1')
-
+nums=[2,3,54,6]
+print(len(nums))
+print(nums[-1])
+'''
+len is always one ahead than the index of array 
+'''

@@ -20,3 +20,10 @@ any/all iterables
 '''
 ![alt text](image.png)
 
+nums[a:b] -> a to b-1
+nums[a:]  -> a to end 
+nums[:b]  -> start to b-1
+nums [:]  -> whole array
+
+nums[-a]= ccount from end 
+nums[-1:]

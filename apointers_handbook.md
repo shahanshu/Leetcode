@@ -4,6 +4,6 @@ Two Pointers
 ├── Same-direction pointers
 │     ├── Slow–fast (same speed)
 │     ├── Slow–fast (different speed)
-│     └── Sliding Window  ✅
+│     └── Sliding Window  
 │
 └── Partitioning pointers
