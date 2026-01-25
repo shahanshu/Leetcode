@@ -1,6 +1,2 @@
-nums=[2,3,54,6]
-print(len(nums))
-print(nums[-1])
-'''
-len is always one ahead than the index of array 
-'''
+anshu=[2] * len([1,2,3,45,5])
+print(anshu)
